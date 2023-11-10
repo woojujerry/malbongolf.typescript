@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/malbongolf.typescript/static/css/main.7c04056a.css",
-    "main.js": "/malbongolf.typescript/static/js/main.3dc98e42.js",
+    "main.css": "/malbongolf.typescript/static/css/main.eb58636c.css",
+    "main.js": "/malbongolf.typescript/static/js/main.f4907d2b.js",
     "static/js/787.d369e542.chunk.js": "/malbongolf.typescript/static/js/787.d369e542.chunk.js",
     "index.html": "/malbongolf.typescript/index.html",
-    "main.7c04056a.css.map": "/malbongolf.typescript/static/css/main.7c04056a.css.map",
-    "main.3dc98e42.js.map": "/malbongolf.typescript/static/js/main.3dc98e42.js.map",
+    "main.eb58636c.css.map": "/malbongolf.typescript/static/css/main.eb58636c.css.map",
+    "main.f4907d2b.js.map": "/malbongolf.typescript/static/js/main.f4907d2b.js.map",
     "787.d369e542.chunk.js.map": "/malbongolf.typescript/static/js/787.d369e542.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7c04056a.css",
-    "static/js/main.3dc98e42.js"
+    "static/css/main.eb58636c.css",
+    "static/js/main.f4907d2b.js"
   ]
 }
